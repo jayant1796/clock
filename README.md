@@ -1,4 +1,4 @@
-Digital Clock using Tkinter
+Digital Clock using Tkinter<br>
 This is a simple digital clock application built using Python's Tkinter library. The clock updates every second and displays the current time in HH:MM
 AM/PM format. The interface is designed with a digital font and features a black background with cyan text.
 
